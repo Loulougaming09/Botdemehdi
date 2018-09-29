@@ -1,0 +1,20 @@
+{
+  "name": "botboomscp",
+  "version": "1.0.0",
+  "description": "mon bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "opusscript": "^0.0.6",
+    "ytdl-core": "^0.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!help"
+  },
+  "keywords": [
+    "!"
+  ],
+  "author": "mylinexd",
+  "license": "ISC"
+}
